@@ -26,14 +26,13 @@ I love working on creative ideas, from small coding projects to research-oriente
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JS logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k4ASFfuZFpwtpCFVzl9vwdXnQEInj3uvNw&s" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JS logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Python-logo.png" height="40" alt="Python logo"  />
-  <img width="12" />
+  
   
 </div>
 
