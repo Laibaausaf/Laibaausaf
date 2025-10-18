@@ -1,16 +1,22 @@
-## Hi there 👋
+# Laiba Ausaf
+My personal introduction repository — about me and my coding journey.
 
-<!--
-**laibaausaf21-alt/laibaausaf21-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi! I'm **Laiba Ausaf**, a Computer Science student from Islamabad, Pakistan.  
+I’m passionate about technology, problem-solving, and continuous learning.  
+I love working on creative ideas, from small coding projects to research-oriented tasks.
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
+- Designs of Algorithms 
+- Database Design  
+- Python  
+- Software Development Tools (like GitHub!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build a strong portfolio of academic & technical projects  
+- Contribute to open-source in the future  
+- Pursue research and higher studies at Top-Ranked Universities
+
+## 🌐 Connect With Me
+• LinkedIn- (https://www.linkedin.com/in/laibaausaf) 
+• Email- (laibaausaf21@gmail.com)
