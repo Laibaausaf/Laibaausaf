@@ -32,7 +32,9 @@ I love working on creative ideas, from small coding projects to research-oriente
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JS logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DIlYvtaJulsJZag0JnuNVddwTFSonHeeQQ&s" height="40" alt="wordpress logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Python-logo.png" height="40" alt="Python logo"  />
+  <img width="12" />
+  
 </div>
 
 ## 🌐 Connect With Me
