@@ -7,7 +7,7 @@ I’m passionate about technology, problem-solving, and continuous learning.
 I love working on creative ideas, from small coding projects to research-oriented tasks.
 
 ## 💻 Currently Learning
-- Designs of Algorithms 
+- Design of Algorithms 
 - Database Systems
 - Python and MySQL
 - Software Development Tools (like GitHub!)
